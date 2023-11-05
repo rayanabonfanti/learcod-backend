@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TCC (Monografia)/TCC - Aplicativo Learcod - Rayana Ribeiro Bonfanti v.Banca.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zull/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../capacitor.config.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../config.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ionic.config.json" beforeDir="false" />
@@ -114,7 +116,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -139,7 +141,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/rayanaribeirobonfanti/Documents/projects github/projects/backend/learcod-backend/api-gateway-zull/src/main/resources",
+    "last_opened_file_path": "/Users/rayanaribeirobonfanti/Documents/projects github/projects/backend/learcod-backend",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -148,9 +150,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/api-gateway-zull/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/api-gateway-zull/src/main/resources" />
       <recent name="$PROJECT_DIR$/api-gateway-zuul/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ApiGatewayZuulApplication">
