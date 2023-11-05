@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dea52c4-ce07-49dc-b53b-fba26e65553e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api-gateway-zull/src/test/java/com/microservice/user/config/ControllerServerConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-zull/src/test/java/com/microservice/user/config/TokenJwtConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zull/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zull/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zull/src/test/java/com/microservice/user/ApiGatewayZuulApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zull/src/test/java/com/microservice/user/ApiGatewayZuulApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/oauth/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-eureka/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-eureka/src/test/java/com/microservice/servereureka/ServerEurekaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-eureka/src/test/java/com/microservice/servereureka/ServerEurekaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Xlc8ibyWp5pO3F40eQkaiwV2q5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "/Users/rayanaribeirobonfanti/Documents/projects github/projects/backend/learcod-backend/api-gateway-zuul/src/main/java/com/microservice",
+    "last_opened_file_path": "/Users/rayanaribeirobonfanti/Documents/projects github/projects/backend/learcod-backend",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/api-gateway-zull/src/main/resources" />
+      <recent name="$PROJECT_DIR$/api-gateway-zuul/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OAuthApplication">
+    <configuration name="ApiGatewayZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="PROFILE" value="test" />
+        <env name="my-secret-key" value="my-secret-key" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.microservice.user.ApiGatewayZuulApplication" />
+      <module name="microservice.api-gateway-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="my-secret-key" value="my-secret-key" />
+        <env name="client_id" value="clientId" />
+        <env name="client_secret" value="clientSecret" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.microservice.oauth.OAuthApplication" />
+      <module name="microservice.oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.oauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.microservice.servereureka.ServerEurekaApplication" />
+      <module name="microservice.server-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.servereureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.microservice.user.UserApplication" />
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in microservice.api-gateway-zuul" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="microservice.api-gateway-zuul" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <envs>
+        <env name="PROFILE" value="test" />
+        <env name="my-secret-key" value="my-secret-key" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayZuulApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="microservice.api-gateway-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.microservice.api" />
+      <option name="MAIN_CLASS_NAME" value="com.microservice.api.ApiGatewayZuulApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OAuthApplication" />
+      <item itemvalue="Application.UserApplication" />
+      <item itemvalue="Application.ServerEurekaApplication" />
+      <item itemvalue="Application.ApiGatewayZuulApplication" />
+      <item itemvalue="JUnit.All in microservice.api-gateway-zuul" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OAuthApplication" />
+        <item itemvalue="Application.UserApplication" />
+        <item itemvalue="Application.ApiGatewayZuulApplication" />
+        <item itemvalue="Application.ServerEurekaApplication" />
+        <item itemvalue="JUnit.All in microservice.api-gateway-zuul" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dea52c4-ce07-49dc-b53b-fba26e65553e" name="Changes" comment="" />
+      <created>1699206950005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699206950005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learcod_backend$All_in_microservice_api_gateway_zuul.ic" NAME="All in microservice.api-gateway-zuul Coverage Results" MODIFIED="1699216043177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
